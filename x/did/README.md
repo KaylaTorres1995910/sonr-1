@@ -1261,3 +1261,5 @@ make -C x/did benchmark
 - **Key Recovery**: Social recovery mechanisms
 - **Cross-Chain DIDs**: Interoperability with other DID methods
 - **Advanced Credentials**: Support for complex credential schemas
+
+<!-- Auto-update: 2025-10-19T17:55:27.113899 -->
