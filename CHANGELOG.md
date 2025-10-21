@@ -889,3 +889,5 @@
 - move migrations to sqlite specific directory
 - reorganize coins module for improved maintainability
 - move proto definitions to separate packages for better organization
+
+<!-- Auto-update: 2025-10-21T08:10:37.500577 -->
